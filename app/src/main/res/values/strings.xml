@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Catat</string>
+
+    <string name="nav_notes">Catatan</string>
+    <string name="nav_tasks">Tugas</string>
+
+    <string name="search_notes">Cari catatan…</string>
+    <string name="search_tasks">Cari tugas…</string>
+
+    <string name="new_note">Catatan baru</string>
+    <string name="new_task">Tugas baru</string>
+    <string name="title">Judul</string>
+    <string name="content">Isi catatan</string>
+    <string name="task_note">Catatan tambahan</string>
+
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="undo">Urungkan</string>
+    <string name="back">Kembali</string>
+    <string name="pin">Sematkan</string>
+    <string name="unpin">Lepas sematan</string>
+
+    <string name="deleted_note">Catatan dihapus</string>
+    <string name="deleted_task">Tugas dihapus</string>
+
+    <string name="empty_notes">Belum ada catatan.\nKetuk + untuk membuat yang pertama.</string>
+    <string name="empty_tasks">Belum ada tugas.\nKetuk + untuk menambahkan.</string>
+    <string name="no_results">Tidak ada yang cocok dengan pencarian atau filter ini.</string>
+
+    <string name="filter_all">Semua</string>
+    <string name="filter_active">Aktif</string>
+    <string name="filter_done">Selesai</string>
+
+    <string name="due_date">Tenggat</string>
+    <string name="set_due_date">Atur tenggat</string>
+    <string name="clear_due_date">Hapus tenggat</string>
+    <string name="today">Hari ini</string>
+    <string name="tomorrow">Besok</string>
+    <string name="overdue">Terlambat</string>
+
+    <string name="priority_high">Prioritas tinggi</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+
+    <string name="reminder">Pengingat</string>
+    <string name="set_reminder">Atur waktu</string>
+    <string name="clear_reminder">Hapus pengingat</string>
+    <string name="reminder_title">Pengingat tugas</string>
+    <string name="channel_reminders">Pengingat tugas</string>
+    <string name="channel_reminders_desc">Notifikasi saat tugas jatuh tempo</string>
+    <string name="reminder_inexact_hint">Notifikasi bisa telat sampai 1 jam. Ketuk untuk mengizinkan alarm presisi.</string>
+
+    <string name="tags">Tag</string>
+    <string name="new_tag">Tag baru</string>
+    <string name="tag_name">Nama tag</string>
+</resources>

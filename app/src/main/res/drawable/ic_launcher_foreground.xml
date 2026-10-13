@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sheet of paper -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30 h28 a4,4 0 0 1 4,4 v40 a4,4 0 0 1 -4,4 h-28 a4,4 0 0 1 -4,-4 v-40 a4,4 0 0 1 4,-4 z" />
+
+    <!-- Text lines -->
+    <path
+        android:strokeColor="#5B7FDE"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M42,42 h20" />
+    <path
+        android:strokeColor="#5B7FDE"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M42,51 h20" />
+
+    <!-- Check mark -->
+    <path
+        android:strokeColor="#2E7D52"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M42,64 l6,6 l14,-14" />
+</vector>
